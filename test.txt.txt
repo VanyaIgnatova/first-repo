@@ -1,2 +1,2 @@
 Creating lab from the Git and GitHub
-Update by something
+Update by browser
