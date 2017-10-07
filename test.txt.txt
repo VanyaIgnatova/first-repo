@@ -1,2 +1,3 @@
 Creating lab from the Git and GitHub
 Update by local
+Update by browser
